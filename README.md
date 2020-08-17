@@ -3,11 +3,11 @@
 
 <h2>Skills:rocket:</h2>
 <ul>
-  <li><b>Programming Languages:</b> <br/>JavaScript, TypeScript, Java, Python, C, C++, Bash 
-  <li><b>Front-end:</b> <br/>React.js, Next.js, Redux, HTML, CSS
-  <li><b>Back-end:</b> <br/> Node.js, Express
-  <li><b>Database:</b> <br/> MySQL, MongoDB
-  <li><b>Etc:</b> <br/> Git, Github
+  <li><p><b>Programming Languages:</b> JavaScript, TypeScript, Java, Python, C, C++, Bash 
+  <li><p><b>Front-end:</b> React.js, Next.js, Redux, HTML, CSS
+  <li><p><b>Back-end:</b> Node.js, Express
+  <li><p><b>Database:</b> MySQL, MongoDB
+  <li><p><b>Etc:</b> Git, Github
 </ul>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chorom-ham&count_private=true)
