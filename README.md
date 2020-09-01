@@ -1,4 +1,4 @@
-<h2>Hello, I'm Chorom Ham :sunglasses:</h2>
+<h2>Hello, World! I'm Chorom Ham :sunglasses:</h2>
  &nbsp;&nbsp;&nbsp;I am a student studying computer science and engineering at Ewha Womans University, South Korea.
 <p></p>
 
