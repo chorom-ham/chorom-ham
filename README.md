@@ -3,7 +3,7 @@
 <p></p>
 
 - 🔭 I’m currently working on <a href="https://github.com/produce1886/pick-me-up/">Pick Me Up</a>, recruitment website for startup and project.
-- 🌱 I’m currently learning ```TDD```.
+- 🌱 I’m currently learning ```TDD``` and ```Dash Plotly```.
 - 📫 How to reach me: Contact me by email! chorom.m.ham@gmail.com
 - ⚡ Fun fact: Farming a garden at university with friends :farmer:
 - :balloon: Can speak: Korean, English, French
