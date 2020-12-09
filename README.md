@@ -14,7 +14,7 @@
   <li><b>Front-end:</b> React.js, Next.js, Redux, HTML, CSS
   <li><b>Back-end:</b> Node.js, Express
   <li><b>Database:</b> MySQL, MongoDB
-  <li><b>Etc:</b> Git, Github
+  <li><b>Etc:</b> Git, Github, Dash, Plotly
 </ul>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chorom-ham&count_private=true&show_icons=true)
