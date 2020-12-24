@@ -3,7 +3,7 @@
 <p></p>
 
 - 🔭 I’m currently working on <a href="https://github.com/produce1886/pick-me-up/">Pick Me Up</a>, recruitment website for startup and project.
-- 🌱 I’m currently learning ```TDD```.
+- 🌱 I’m currently learning ```Machine Learning``` and ```TDD```.
 - 📫 How to reach me: Contact me by email! chorom.m.ham@gmail.com
 - ⚡ Fun fact: Farming a garden at university with friends :farmer:
 - :balloon: Can speak: Korean, English, French
@@ -14,7 +14,7 @@
   <li><b>Front-end:</b> React.js, Next.js, Redux, HTML, CSS
   <li><b>Back-end:</b> Node.js, Express
   <li><b>Database:</b> MySQL, MongoDB
-  <li><b>Etc:</b> Git, Github, Dash, Plotly
+  <li><b>Etc:</b> Git, Github, Dash, Plotly, Octave
 </ul>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chorom-ham&count_private=true&show_icons=true)
